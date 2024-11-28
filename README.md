@@ -20,3 +20,9 @@ This project is a Python-based application designed to recognize license plates 
    ```bash
    git clone https://github.com/selmanyasinaktas/PlakaTanima.git
    cd PlakaTanima
+
+## Usage Instructions
+Once the project is running:
+
+• Press S to save the recognized license plate to an Excel file and capture the license plate as an image.
+• Press ESC to exit the application.
